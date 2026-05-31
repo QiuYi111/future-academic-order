@@ -54,5 +54,6 @@ PER-242/
 9. ✅ 预期结论 — 结论部分（5个主要发现）
 
 ## GitHub
-仓库: https://github.com/QiuYi111/academic-writing-zh
+仓库: https://github.com/QiuYi111/future-academic-order
 论文文件：paper.md, latex/, figures/
+⚠️ 注意：academic-writing-zh 是 skill 仓库，不要混入论文文件
